@@ -1,0 +1,43 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Verdana, sans-serif;
+	background-image: url('../kepek/viztukor.png');
+}
+
+.leiras{
+	background-image: url('../kepek/fatyol.png');
+
+}
+
+.leiras h1,h2{
+	color: indigo;
+
+}
+
+.leiras p{
+
+}
+
+.kepkeret {
+  background-image: url('../kepek/fatyol.png');
+
+}
+
+.kepkeret .kep {
+	background-image: url('../kepek/hajoorr.jpg');
+	max-width: 350px;
+	height: 234px;
+}
+.kepkeret .alairas p{
+
+}
+
+a{
+
+}
+ul{
+
+}
